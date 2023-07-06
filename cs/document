@@ -1,0 +1,38 @@
+tinyArray
+insert 62.944 μs
+append 5.416504 ms
+
+
+smallArray
+Results for the extraLargeArray
+insert 72.852 μs
+append 160.093 μs
+
+
+medium Array
+Results for the extraLargeArray
+insert 256.513 μs
+append 258.707 μs
+
+
+LargeArray
+Results for the extraLargeArray
+insert 11.4806 ms
+append 942.526 μs
+
+
+extraLargeArray
+Results for the extraLargeArray
+insert 1.470286998 s
+append 7.314455 ms
+
+sumZero
+true ="true";
+
+Results for the extraLargeArray
+insert 108.395 μs
+append 354.472 μs
+1, 2, 3, 4, -2
+monday, moonday
+The quick brown fox jumps over the lazy dog! I like cats, but not mice
+hi,  hello
